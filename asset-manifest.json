@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Crown-clothing/static/css/main.6bca299b.css",
-    "main.js": "/Crown-clothing/static/js/main.6c735e95.js",
-    "static/media/shopping-bag.svg": "/Crown-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
-    "static/media/084 crown.svg": "/Crown-clothing/static/media/084 crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
-    "index.html": "/Crown-clothing/index.html",
-    "main.6bca299b.css.map": "/Crown-clothing/static/css/main.6bca299b.css.map",
-    "main.6c735e95.js.map": "/Crown-clothing/static/js/main.6c735e95.js.map"
+    "main.css": "/Clothing-Store-Website/static/css/main.6bca299b.css",
+    "main.js": "/Clothing-Store-Website/static/js/main.9a5dd4da.js",
+    "static/media/shopping-bag.svg": "/Clothing-Store-Website/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/084 crown.svg": "/Clothing-Store-Website/static/media/084 crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Clothing-Store-Website/index.html",
+    "main.6bca299b.css.map": "/Clothing-Store-Website/static/css/main.6bca299b.css.map",
+    "main.9a5dd4da.js.map": "/Clothing-Store-Website/static/js/main.9a5dd4da.js.map"
   },
   "entrypoints": [
     "static/css/main.6bca299b.css",
-    "static/js/main.6c735e95.js"
+    "static/js/main.9a5dd4da.js"
   ]
 }
