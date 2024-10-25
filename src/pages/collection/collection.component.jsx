@@ -11,7 +11,7 @@ const CollectionPage = () => {
   const { collectionId } = useParams(); // Get the collectionId from the route parameters
   const collection = useSelector((state) =>
     selectCollection(collectionId)(state)
-  ); // Use Redux selector to get the collection
+  ); 
 
   if (!collection) {
     return <div>Collection not found</div>;
